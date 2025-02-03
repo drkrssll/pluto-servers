@@ -1,7 +1,16 @@
 [package]
 name = "pluto-servers"
 version = "0.1.0"
+authors = ["Derek Russell russellderek01@gmail.com"]
 edition = "2021"
+
+license = "MIT OR Apache-2.0"
+categories = ["game-development", "networking"]
+keywords = ["plutonium", "call of duty", "servers", "api"]
+
+description = "A library for fetching Call of Duty server data from the Plutonium API."
+repository = "https://github.com/drkrssll/pluto-servers/"
+homepage = "https://github.com/drkrssll/pluto-servers/"
 
 [dependencies]
 reqwest = { version = "0.12.12", features = ["blocking", "json"] }
