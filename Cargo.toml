@@ -5,7 +5,7 @@ authors = ["Derek Russell russellderek01@gmail.com"]
 edition = "2021"
 
 license = "MIT OR Apache-2.0"
-categories = ["game-development", "networking"]
+categories = ["game-development"]
 keywords = ["plutonium", "servers", "api"]
 
 description = "A library for fetching Call of Duty server data from the Plutonium API."
